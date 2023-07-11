@@ -18,7 +18,7 @@ _Get started using GitHub in less than an hour._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish (README.md)
+## Finish (docs/README.md)
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
