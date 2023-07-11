@@ -20,7 +20,7 @@ _Get started using GitHub in less than an hour._
 
 ## Finish
 
--[x] https://github.com/yiidyilmaz/skills-introduction-to-github/tree/main
+-[] test
 _Congratulations, you've completed this course and joined the world of developers!_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
